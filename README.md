@@ -91,8 +91,8 @@ The data model follows a classic **Star Schema** — a single fact table connect
 
 ## 🛠️ Tools & Techniques
 
-- Power Query (data cleaning, Unpivot, custom columns)
-- Power Pivot Data Model (multi-fact relationships, role-playing dimensions)
+- Power Query (data cleaning,custom columns)
+- Power Pivot Data Model (fact relationships, role-playing dimensions)
 - DAX (measures, calculated columns, `USERELATIONSHIP`, `SUMMARIZE`/`TOPN`)
 - PivotTables & PivotCharts driven entirely by the Data Model
 - Synchronized slicers across all report pages
