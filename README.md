@@ -108,8 +108,3 @@ The data model follows a classic **Star Schema** — a single fact table connect
 └── data_model.png
 ```
 
-> **Data source:** Public HR/payroll dataset sourced from Kaggle, used for portfolio and learning purposes.
-
-## 👤 Author
-
-Built as part of a data analytics portfolio focused on HR/workforce reporting, dimensional modeling, and DAX-driven Excel dashboards.
